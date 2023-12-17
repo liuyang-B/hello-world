@@ -7,3 +7,4 @@ dst[i] = src[i]
 dst[L] = '10'
 return dst ;
 }
+本地编辑 B21032313 刘扬
